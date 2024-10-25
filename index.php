@@ -1,7 +1,3 @@
-<?php
-    header("Location: https://portfolio.tomfearn.co.uk?passed=true");
-?>
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -10,6 +6,9 @@
     <title>Document</title>
 </head>
 <body>
+    <script>
+        window.href = "https://portfolio.tomfearn.co.uk"
+    </script>
     
 </body>
 </html>
