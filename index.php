@@ -7,7 +7,7 @@
 </head>
 <body>
     <script>
-        window.href = "https://portfolio.tomfearn.co.uk"
+        window.location.href = "https://portfolio.tomfearn.co.uk";
     </script>
     
 </body>
