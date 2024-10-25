@@ -5,3 +5,8 @@ body {
 .title {
     font-size: xx-large;
 }
+
+.topnav-container {
+    display: flexbox;
+    flex-wrap: nowrap;
+}
